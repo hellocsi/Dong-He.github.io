@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "HE Dong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : # "Your biography for the left-hand sidebar"
+  location         : "Clear Water Bay, Hong Kong"
+  employer         : "Hong Kong University of Science and Technology"
   pubmed           : " "
   googlescholar    : "https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra"
-  email            :
+  email            : "dong.he@connect.ust.hk"
   researchgate     : "https://www.researchgate.net/profile/Dong_He8"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hedong/"
   orcid            : " "
   pinterest        :
   soundcloud       :
