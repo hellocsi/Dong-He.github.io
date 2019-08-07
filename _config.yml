@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : # "Your biography for the left-hand sidebar"
   location         : "Clear Water Bay, Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  employer         : "Hong Kong University of \n Science and Technology"
   pubmed           : " "
   googlescholar    : "https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra"
   email            : "dong.he@connect.ust.hk"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hedong/"
+  linkedin         : "hedong"
   orcid            : " "
   pinterest        :
   soundcloud       :
