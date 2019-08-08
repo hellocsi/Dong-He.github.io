@@ -9,9 +9,9 @@ Full CV
 ### Publications
 * ARTICLES
 
-Chengbo Liu, Muyue Xing, Bing Cong, Chen Qiu, Dong He, Congzhi Wang, et al. In vivo transrectal imaging of canine prostate with a sensitive and compact handheld transrectal array photoacoustic probe for early diagnosis of prostate cancer. Biomedical Optics Express, 2019, 10(4): 1707-1717.
+  * Chengbo Liu, Muyue Xing, Bing Cong, Chen Qiu, Dong He, Congzhi Wang, et al. In vivo transrectal imaging of canine prostate with a sensitive and compact handheld transrectal array photoacoustic probe for early diagnosis of prostate cancer. Biomedical Optics Express, 2019, 10(4): 1707-1717.
 
-Jiantao Lu, Wei Cheng, Dong He, Yanyang Zi, A novel underdetermined blind source separation method using  synchrosqueezing transform and improved density peaks clustering. Journal of Sound and Vibration, 2019, 457: 67-91.
+  * Jiantao Lu, Wei Cheng, Dong He, Yanyang Zi, A novel underdetermined blind source separation method using  synchrosqueezing transform and improved density peaks clustering. Journal of Sound and Vibration, 2019, 457: 67-91.
 
 Hongrui Cao, Xiangsheng Wang, Dong He, Xuefeng Chen, Disk crack detection for aero-engines, The 9th conference of the China Aviation Society, 2018, in Chinese
 
