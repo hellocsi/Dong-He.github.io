@@ -13,6 +13,7 @@ Full CV
   * Jiantao Lu, Wei Cheng, **Dong He**, Yanyang Zi, A novel underdetermined blind source separation method using  synchrosqueezing transform and improved density peaks clustering. Journal of Sound and Vibration, 2019, 457: 67-91.
   * Hongrui Cao, Xiangsheng Wang, **Dong He**, Xuefeng Chen, Disk crack detection for aero-engines, The 9th conference of the China Aviation Society, 2018, in Chinese
   * Chengbo Liu, Muyue Xing, Bing Cong, Chen Qiu, **Dong He**, Congzhi Wang, et al. In vivo transrectal imaging of canine prostate with a sensitive and compact handheld transrectal array photoacoustic probe for early diagnosis of prostate cancer. Biomedical Optics Express, 2019, 10(4): 1707-1717.
+  
 * PATENTS
   * Hongrui Cao; **Dong He**; Xuefeng Chen; Yanyang Zi; Songtao Xi, An Impact Signal Analysis and Reconstruction Method Based on Time-reassigned  Synchrosqueezing Transform,CN107608935A,2018
   * Wei Cheng; Jiantao Lu; Jianhong Chen; Yunsheng Hao; Yanyang Zi; Zhengjia He; **Dong He**; Hongrui Cao, et.al, Hybrid matrix estimation method for blind source separation based on synchrosqueezing transform, CN107301434A, 2017
