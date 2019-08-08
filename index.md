@@ -1,4 +1,4 @@
-Home
+CV
 ### Education
 * B.S. Xi’an Jiaotong University, 2011-2015
 * M.S. Xi’an Jiaotong University, 2015-2018
