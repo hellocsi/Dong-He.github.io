@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 <a href="https://docs.google.com/document/d/1I_pskUUkR0F-M39aNBe-BI2NoyAhiWc2to2PEfdwV4k/edit?usp=sharing">Full CV</a>
 ### Education
 * B.S. Xi’an Jiaotong University, 2011-2015
