@@ -1,5 +1,3 @@
-## Home
-
 ## Education
 
 * B.S. in GitHub, GitHub University, 2012
