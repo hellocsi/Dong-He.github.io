@@ -28,14 +28,9 @@ redirect_from:
 * Skill 3
 -->
 
-### <a href="publications.md">Publications</a>
+### <a href="https://dong-he.github.io/publications/">Publications</a>
 You can also find my latest articles on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
-  
-  <!--
-   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
+
 <!--
 ### Talks
   <ul>{% for post in site.talks %}
