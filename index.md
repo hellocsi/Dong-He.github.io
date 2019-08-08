@@ -3,9 +3,11 @@ CV
 * B.S. Xi’an Jiaotong University, 2011-2015
 * M.S. Xi’an Jiaotong University, 2015-2018
 * Ph.D Hong Kong University of Science and Technology, 2019-present
+
 ### Work experience
 * **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
 * **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017
+
 ### Publications
 * ARTICLES
   * **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing, Mechanical Systems and Signal Processing, Volume 117, 2019, Pages 255-279, ISSN 0888-3270
@@ -20,6 +22,7 @@ CV
   * Hongrui Cao; **Dong He**; Kai Zhou; Xuefeng Chen; Yanyang Zi; Xingwu Zhang, An AR Model Based Method for Chatter Online Identification in High-Speed Milling, CN106141815A, 2016
   * Hongrui Cao; **Dong He**; Kai Zhou; Xuefeng Chen; Yanyang Zi; Xingwu Zhang, A 3σ Criterion Based Method for the Automatic Alarm of Chatter in Milling Process, CN106112697A, 2016
   * Jing Li; **Dong He**; Qiuyue Yu; Jianhong Wang; Yanjie Guo; Muxun Xu, An Assembled Electric Mini-Robot, CN204428811U, 2015
+
 ### Teaching
 * **Teaching Assistant**, School of Mechanical Engineering, XJTU, 12/2016-10/2017
   * Supervised for the thesis of undergraduate students
