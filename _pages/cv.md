@@ -42,11 +42,11 @@ redirect_from:
 
 <div style='display: none'>
 ### Talks
-
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 </div>
+
 ### Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
