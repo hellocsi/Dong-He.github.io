@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra}}">Google Scholar Profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.</u>
 
 * ARTICLES
   * **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing, Mechanical Systems and Signal Processing, Volume 117, 2019, Pages 255-279, ISSN 0888-3270
