@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "HE Dong"
   avatar           : "pic.jpg"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : " "
   location         : "Clear Water Bay, Hong Kong"
   employer         : "HKUST"
   pubmed           : " "
