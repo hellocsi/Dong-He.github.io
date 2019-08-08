@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "zh_CN"
 title                    : "HE Dong"
-title_separator          : "-"
-name                     : &name "HE Dong"
+title_separator          : #"-"
+name                     : #&name "HE Dong"
 description              : #&description "personal description"
 url                      : https://dong-he.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
