@@ -5,7 +5,7 @@ Home
 * Ph.D Hong Kong University of Science and Technology, 2019-present
 ### Work experience
 * **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
-* **System Engineer**, Intern at Envision Energy LLC, 07/2017-08/2017
+* **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017
 ### Publications
 * ARTICLES
   * **Dong He**, Hongrui Cao, Shibin Wang, Xuefeng Chen, Time-reassigned synchrosqueezing transform: The algorithm and its applications in mechanical signal processing, Mechanical Systems and Signal Processing, Volume 117, 2019, Pages 255-279, ISSN 0888-3270
