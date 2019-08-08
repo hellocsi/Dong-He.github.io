@@ -25,7 +25,7 @@ redirect_from:
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-<div style='display: none'>
+<!--
 ### Skills
 * Skill 1
 * Skill 2
@@ -33,19 +33,19 @@ redirect_from:
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-</div>
+-->
 
 ### Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<div style='display: none'>
+<!--
 ### Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-</div>
+-->
 
 ### Teaching
   <ul>{% for post in site.teaching %}
