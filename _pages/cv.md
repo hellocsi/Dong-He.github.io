@@ -10,20 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Xi’an Jiaotong University, 2011-2015
+* M.S. Xi’an Jiaotong University, 2015-2018
+* Ph.D Hong Kong University of Science and Technology, 2019-present
 
 ### Work experience
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
+* **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017
 
 <!--
 ### Skills
@@ -48,9 +41,9 @@ redirect_from:
 -->
 
 ### Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Teaching Assistant**, School of Mechanical Engineering, XJTU, 12/2016-10/2017
+  * Supervised for the thesis of undergraduate students
+  * Instructed undergraduate students in an experiment of fault diagnosis on rotor test rig
   
-### Service and leadership
-* Currently signed in to 43 different slack teams
+### Service
+* **Volunteer**, The 120th Anniversary Celebration of XJTU, 04/2016
