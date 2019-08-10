@@ -12,7 +12,7 @@ redirect_from:
 * M.S. Xi’an Jiaotong University, 2015-2018
 * Ph.D Hong Kong University of Science and Technology, 2019-present
 
-### Work experience
+### Working Experience
 * **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
 * **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017
 
