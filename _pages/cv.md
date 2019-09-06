@@ -10,7 +10,7 @@ redirect_from:
 ### Education
 * B.S. Xi’an Jiaotong University, 2011-2015
 * M.S. Xi’an Jiaotong University, 2015-2018
-* Ph.D  Hong Kong University of Science and Technology, 2019-present
+* Ph.D Hong Kong University of Science and Technology, 2019-present
 
 ### Working Experience
 * **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
