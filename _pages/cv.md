@@ -8,21 +8,17 @@ redirect_from:
 ---
 {% include base_path %}
 ### Education
-* B.S. Xi’an Jiaotong University, 2011-2015
-* M.S. Xi’an Jiaotong University, 2015-2018
-* Ph.D Hong Kong University of Science and Technology, 2019-present
+* 2015.09 - 2016.11, *M.Sc.*, **The Chinese University of Hong Kong**
+* 2011.09 - 2015.06, *B.Eng*, **Xi’an Jiaotong University**
 
 ### Working Experience
-* **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 07/2018-07/2019
-* **System Engineer Intern**, Envision Energy LLC, 07/2017-08/2017
+* 2019.04 — Now, *Executive Director*, Department of AI, **Shen Zhen GLI Technology Limited**
 
-### <a href="https://dong-he.github.io/publications/">Publications</a>
-You can also find my latest articles on <a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar Profile</a>.
+* 2018.07 — 2019.04, *Algorithm Group Leader*, Department of R&D, **Shen Zhen GLI Technology Limited**
 
-### Skills
-* MATLAB
-* Autodesk Inventor
-* C++
+* 2017.01 — 2018.07, *Computer Vision Engineer*, Department of R&D, **Shen Zhen GLI Technology Limited**
+
+* 2016.07 — 2016.12, *Research Assistant*, Department of MAE, **The Chinese University of Hong Kong**
 
 <!--
 ### Talks
@@ -30,11 +26,4 @@ You can also find my latest articles on <a href="https://scholar.google.com/cita
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
-
-### Teaching
-* **Teaching Assistant**, School of Mechanical Engineering, XJTU, 12/2016-10/2017
-
-### Service
-* **Volunteer**, The 120th Anniversary Celebration of XJTU, 04/2016
-
-<a href="https://docs.google.com/document/d/1I_pskUUkR0F-M39aNBe-BI2NoyAhiWc2to2PEfdwV4k/edit?usp=sharing">Full CV</a>
+<a href="https://sichang.site/files/CV.pdf">Download Full CV</a>
