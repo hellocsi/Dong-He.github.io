@@ -9,7 +9,7 @@
 locale                   : "zh_CN"
 title                    : "Chang Si"
 title_separator          : #"-"
-name                     : #&name "Dong HE"
+name                     : #&name "Chang Si"
 description              : #&description "personal description"
 url                      : https://hellocsi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
