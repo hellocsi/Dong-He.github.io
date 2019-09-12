@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh_CN"
-title                    : "Dong HE"
+title                    : "Chang Si"
 title_separator          : #"-"
 name                     : #&name "Dong HE"
 description              : #&description "personal description"
-url                      : https://dong-he.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hellocsi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dong HE"
+  name             : "Chang Si"
   avatar           : "pic.jpg"
-  bio              : "PhD Student"
-  location         : "Clear Water Bay, Hong Kong"
-  employer         : "HKUST"
+  bio              : "Executive Director"
+  employer         : "Department of AI, GLI Tech"
+  location         : "Nanshan, Shenzhen, China"
   #pubmed           : " "
-  googlescholar    : "https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra"
-  email            : "dong.he@connect.ust.hk"
-  researchgate     : "https://www.researchgate.net/profile/Dong_He8"
+  googlescholar    : "https://scholar.google.com/citations?user=6DQXk6QAAAAJ&hl"
+  email            : "charles.sichang@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dong-he"
+  github           : "hellocsi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hedong"
+  linkedin         : "sichang0901"
   #orcid            : " "
   pinterest        :
   soundcloud       :

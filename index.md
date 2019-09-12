@@ -1,9 +1,8 @@
-I am a Ph.D. Student in department of Mechanical Engineering at Hong Kong University of Science and Technology. I conduct research in Prof. Kai TANG's Lab, where my research interests include mechanical signal processing and computer-aided design/manufacturing/inspection as well as the application of computational algorithms and methodologies in manufacturing process.
+I am the Executive Director of the department of AI, Shen Zhen GLI Technology Limited. I received the B.Eng. degree from Xi'an Jiaotong University(XJTU) in 2015 and the M.Sc. degree from the Chinese University of Hong Kong(CUHK) in 2016. Before joining GLI Tech, I serverd as a Research Assistant at CUHK.
 
-Please take a look through my site and feel free to contact me if you have any questions or would be interested in working together!
+My research interest covers Computer Vision, Machine Learning and Robotics.
 
-<a href="mailto:dong.he@connect.ust.hk">Email</a> |
-<a href="https://scholar.google.com/citations?user=hHxsez8AAAAJ&hl=zh-CN&oi=sra">Google Scholar</a> |
-<a href="https://www.researchgate.net/profile/Dong_He8">Research Gate</a> |
-<a href="https://www.linkedin.com/in/hedong">LinkedIn</a> |
-<a href="https://github.com/dong-he">Github</a>
+<a href="mailto:charles.sichang@gmail.com">Email</a> |
+<a href="https://scholar.google.com/citations?user=6DQXk6QAAAAJ&hl">Google Scholar</a> |
+<a href="https://www.linkedin.com/in/sichang0901">LinkedIn</a> |
+<a href="https://github.com/hellocsi">Github</a>
